@@ -1,0 +1,20 @@
+#testeNums = [2,3,5]
+
+# se indice 0 + indice x é igual a target, retorne indice 0, indice x
+        # porém tem o caso em que não é o indice 0, mas um indice y
+        # então indice x + indice y == target retorne x,y
+
+        #targetTeste = 5
+        #if (testeNums[0] + testeNums[1]) == targetTeste:
+        #    indices.append(testeNums.index(testeNums[0]))
+        #    indices.append(testeNums.index(testeNums[1]))
+        
+        #for i in range(len(nums)):
+        #    if (nums[0] + nums[i]) == target:
+        #        indices.append(0)
+        #        indices.append(i)
+
+ # x = [0] 
+        # y = [0+1] = [1]
+        # ai compara
+         
