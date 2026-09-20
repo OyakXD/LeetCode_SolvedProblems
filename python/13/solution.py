@@ -25,6 +25,5 @@ class Solution(object):
             print(char)
             number += symbols[char]
         return number
-        
-        return 
+
         
